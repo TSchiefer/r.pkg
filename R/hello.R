@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @return
+#' @return Prints "Hello, World!"
 #' @export
 #'
 #' @examples

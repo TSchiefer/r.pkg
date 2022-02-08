@@ -7,7 +7,7 @@
 hello()
 }
 \value{
-
+Prints "Hello, World!"
 }
 \description{
 Title

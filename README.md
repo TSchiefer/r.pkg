@@ -4,6 +4,8 @@
 # r.pkg
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/TSchiefer/r.pkg/workflows/R-CMD-check/badge.svg)](https://github.com/TSchiefer/r.pkg/actions)
 <!-- badges: end -->
 
 The goal of r.pkg is to …

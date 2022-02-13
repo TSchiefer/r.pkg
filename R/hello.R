@@ -20,7 +20,7 @@ hello_old <- function() {
 #'
 #' @examples
 #' hello("hello")
-hello <- function(msg, ...) {
+hello <- function(msg) {
   structure(msg, class = "new_class")
   # structure(msg, class = c("new_class", class(msg)))
 }

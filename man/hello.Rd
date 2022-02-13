@@ -4,7 +4,7 @@
 \alias{hello}
 \title{Title}
 \usage{
-hello(msg, ...)
+hello(msg)
 }
 \arguments{
 \item{msg}{Input that should be printed in green.}

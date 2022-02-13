@@ -6,6 +6,9 @@
 \usage{
 hello(msg, ...)
 }
+\arguments{
+\item{msg}{Input that should be printed in green.}
+}
 \value{
 Prints your message in green.
 }
@@ -13,5 +16,5 @@ Prints your message in green.
 Title
 }
 \examples{
-hello()
+hello("hello")
 }

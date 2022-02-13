@@ -19,7 +19,7 @@ hello_old <- function() {
 #' @export
 #'
 #' @examples
-#' hello()
+#' hello("hello")
 hello <- function(msg, ...) {
   structure(msg, class = "new_class")
   # structure(msg, class = c("new_class", class(msg)))

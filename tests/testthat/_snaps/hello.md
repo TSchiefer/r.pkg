@@ -5,3 +5,10 @@
     Output
       Hello, World!
 
+---
+
+    Code
+      hello_old()
+    Output
+      Hello, World!
+

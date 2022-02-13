@@ -1,0 +1,27 @@
+---
+title: "hello"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{hello}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(r.pkg)
+```
+
+# Talking about `hello()`
+
+This package has a function `hello()` and it works like this:
+```{r}
+hello("message")
+```
+

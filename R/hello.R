@@ -22,7 +22,6 @@ hello_old <- function() {
 #' hello("hello")
 hello <- function(msg) {
   structure(msg, class = "new_class")
-  # structure(msg, class = c("new_class", class(msg)))
 }
 
 #' @export

@@ -4,6 +4,6 @@ test_that("multiplication works", {
   #   "Hello, World!"
   # )
   expect_snapshot(
-    hello()
+    hello("Hello, World!")
   )
 })

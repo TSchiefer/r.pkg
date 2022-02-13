@@ -1,7 +1,7 @@
 # multiplication works
 
     Code
-      hello()
+      hello("Hello, World!")
     Output
       Hello, World!
 

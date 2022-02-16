@@ -7,8 +7,8 @@
 #' @export
 #'
 #' @examples
-#' hello("hello")
-new_function <- function(msg) {
+#' new_fun("hello")
+new_fun <- function(msg) {
   structure(msg, class = "another_new_class")
 }
 

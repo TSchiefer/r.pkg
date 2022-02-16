@@ -14,7 +14,8 @@ Imports:
 Suggests: 
     rmarkdown,
     knitr,
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    covr
 Config/testthat/edition: 3
 URL: https://tschiefer.github.io/r.pkg/
 VignetteBuilder: knitr

@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/TSchiefer/r.pkg/workflows/R-CMD-check/badge.svg)](https://github.com/TSchiefer/r.pkg/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/TSchiefer/r.pkg/branch/main/graph/badge.svg)](https://app.codecov.io/gh/TSchiefer/r.pkg?branch=main)
 <!-- badges: end -->
 
 The goal of r.pkg is to …
@@ -26,6 +28,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(r.pkg)
+#> Thanks for using {r.pkg}. Enjoy!
 ## basic example code
 ```
 
